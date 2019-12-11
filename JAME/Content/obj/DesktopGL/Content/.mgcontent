@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/josh/source/repos/JAME/JAME/Content/Blue.png</File>
+    <File>C:/Users/josh/source/repos/JAME/JAME/Content/Brown.png</File>
+    <File>C:/Users/josh/source/repos/JAME/JAME/Content/Font.spritefont</File>
+    <File>C:/Users/josh/source/repos/JAME/JAME/Content/Gray.png</File>
+    <File>C:/Users/josh/source/repos/JAME/JAME/Content/Green.png</File>
+    <File>C:/Users/josh/source/repos/JAME/JAME/Content/Pink.png</File>
+    <File>C:/Users/josh/source/repos/JAME/JAME/Content/Purple.png</File>
+    <File>C:/Users/josh/source/repos/JAME/JAME/Content/Terrain (16x16).png</File>
+    <File>C:/Users/josh/source/repos/JAME/JAME/Content/Yellow.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Terrain.png</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

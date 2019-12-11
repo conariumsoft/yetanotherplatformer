@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/josh/source/repos/JAME/JAME/Content/Blue.png","C:/Users/josh/source/repos/JAME/JAME/Content/bin/DesktopGL/Blue.xnb","TextureProcessor","Texture2DContent",298,16469,0.2120011
+"C:/Users/josh/source/repos/JAME/JAME/Content/Brown.png","C:/Users/josh/source/repos/JAME/JAME/Content/bin/DesktopGL/Brown.xnb","TextureProcessor","Texture2DContent",552,16469,0.0049991
+"C:/Users/josh/source/repos/JAME/JAME/Content/Font.spritefont","C:/Users/josh/source/repos/JAME/JAME/Content/bin/DesktopGL/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.4459977
+"C:/Users/josh/source/repos/JAME/JAME/Content/Gray.png","C:/Users/josh/source/repos/JAME/JAME/Content/bin/DesktopGL/Gray.xnb","TextureProcessor","Texture2DContent",480,16469,0.0040001
+"C:/Users/josh/source/repos/JAME/JAME/Content/Green.png","C:/Users/josh/source/repos/JAME/JAME/Content/bin/DesktopGL/Green.xnb","TextureProcessor","Texture2DContent",543,16469,0.1739809
+"C:/Users/josh/source/repos/JAME/JAME/Content/Pink.png","C:/Users/josh/source/repos/JAME/JAME/Content/bin/DesktopGL/Pink.xnb","TextureProcessor","Texture2DContent",417,16469,0.0040015
+"C:/Users/josh/source/repos/JAME/JAME/Content/Purple.png","C:/Users/josh/source/repos/JAME/JAME/Content/bin/DesktopGL/Purple.xnb","TextureProcessor","Texture2DContent",249,16469,0.0040001
+"C:/Users/josh/source/repos/JAME/JAME/Content/Terrain (16x16).png","C:/Users/josh/source/repos/JAME/JAME/Content/bin/DesktopGL/Terrain.xnb","TextureProcessor","Texture2DContent",8792,247893,0.0320038
+"C:/Users/josh/source/repos/JAME/JAME/Content/Yellow.png","C:/Users/josh/source/repos/JAME/JAME/Content/bin/DesktopGL/Yellow.xnb","TextureProcessor","Texture2DContent",488,16469,0.0029992
